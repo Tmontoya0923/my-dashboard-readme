@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Tania Montoya!
 ##  About Me
-I like outdoor activities and spend quality time the people I love the most. I'm passionate about learning cybersecurity so i can better protect my family. 
+I like outdoor activities and spend quality time the people I love the most. I'm passionate about learning cybersecurity so I can better protect my family. 
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
